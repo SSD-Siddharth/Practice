@@ -4,7 +4,10 @@ using namespace std;
 #define ll long long
 pair<long long, long long> getMinMax(long long a[], int n) ;
 /*
-
+Input format, 
+No. of test cases, t
+	For each test case t, no. of element in the array, n
+		Elements of the array
 */
 int main() {
     int t;
