@@ -1,3 +1,4 @@
+Sort an array of 0s, 1s and 2s
 //Sorting only 0, 1, 2 
 //{ Driver Code Starts
 //Initial function template for C++
