@@ -34,7 +34,7 @@ class Solution{
         */
         
         //The  complexity for the brute force is n^2 for the worst case , so now we'll change it into O(n)
-        //By using sets
+        //So, By using sets, time complexity will be as per our requirement. 
         set <int>ssd;
         
         for(int i=0;i<n;i++)
@@ -43,6 +43,7 @@ class Solution{
             ssd.insert(b[i]);
 
         return ssd.size();
+	//Can also use while loop
     }
 };
 
